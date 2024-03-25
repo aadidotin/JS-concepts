@@ -2,7 +2,6 @@
  * Closure Example 
  * **/
 
-
 // Example 1: Parent and Child Function(s)
 let a = 1;
 const parentFunction = () => {
