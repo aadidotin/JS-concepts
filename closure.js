@@ -2,8 +2,9 @@
  * Closure Example 
  * **/
 
-let a = 1;
 
+// Example 1: Parent and Child Function(s)
+let a = 1;
 const parentFunction = () => {
     let b = 2;
     console.log(a);
